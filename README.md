@@ -1,12 +1,16 @@
+<p align="center"><img src="static/logo-small.png" alt="MarkText" width="100" height="100"></p>
+<sub>Merci d'avoir pris le temps de lire.</sub>
+
+
 **Sommaire :**
 
-`  `I. Présentation IRL
+` :high_brightness: `I. Présentation IRL
 
-`  `II. Présentation IG
+` :crescent_moon: `II. Présentation IG
 
-`  `III. Motivations
+` :dizzy: `III. Motivations
 
-`  `IV. Pourquoi moi ?
+` :comet: `IV. Pourquoi moi ?
 
 ![](Aspose.Words.d0a00228-fe70-4d61-888c-be2e0122eebd.001.png)
 
