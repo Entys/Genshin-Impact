@@ -2,7 +2,7 @@
 <sub>Merci d'avoir pris le temps de lire.</sub>
 <br>
 
-<div align="center">**Sommaire :**</div>
+<h1 align="center">Sommaire :</h1>
 
 :high_brightness: <a href="/README.md">I. Présentation IRL</a>
 
