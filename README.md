@@ -2,7 +2,7 @@
 <sub>Merci d'avoir pris le temps de lire.</sub>
 <br>
 
-**Sommaire :**
+<div align="center">**Sommaire :**</div>
 
 :high_brightness: <a href="/README.md">I. Présentation IRL</a>
 
@@ -14,7 +14,8 @@
 
 ![](Aspose.Words.d0a00228-fe70-4d61-888c-be2e0122eebd.001.png)
 
-**I. La présentation IRL:** 
+
+:high_brightness: <a href="/README.md">**I. Présentation IRL**</a>
 
 Pour commencer, je me nomme Enzo, et j’ai pour deuxième prénom Matys. Je suis né en France, je suis âgé de 18 ans, j’ai passé mon bac en filière S. Je suis actuellement en école suppérieur d’informatique en troisième année, plus exactement, je viens de finaliser et réussir ma deuxième année.
 
@@ -28,7 +29,8 @@ De plus, je suis cachottier, complexe ou encore formaliste, mais j’essaye d�
 
 ![](Aspose.Words.d0a00228-fe70-4d61-888c-be2e0122eebd.001.png)
 
-**II. La présentation IG:**
+
+:crescent_moon: <a href="/README.md">**II. Présentation IG**</a>
 
 Tout d’abord, il faut savoir que je joue à Genshin-Impact depuis le début de sa création, soit octobre 2020 si je ne me trompe... J’ai toujours joué seul en général, mais j’ai arrêté de jouer à la sortie de Liyue, car le jeu n’avait plus d’histoire et de quête à me soumettre. Mon pseudonyme en jeu est « Entys », il possède une petite histoire qui fait liaison au premier paragraphe, mon deuxième prénom étant Matys. Il a donc pour utilité de faire un mélange avec mon premier prénom ce qui donne : Enzo + Matys = Entys !
 
@@ -41,7 +43,7 @@ Pour finir pour moi jouer est avant tous un plaisir et à vrai dire je n’ai qu
 ![](Aspose.Words.d0a00228-fe70-4d61-888c-be2e0122eebd.001.png)
 
 
-**III. Motivations :**
+:dizzy: <a href="/README.md">**III. Motivations**</a>
 
 
 Mes principales motivations sont des plus simples, c’est-à-dire aider l’équipe de modération, vous cher propriétaire, ainsi que les joueurs à coexister, à se serrer les coudes, de sorte à avoir une bonne convivialité et que tout problème se voit obtenir une solution.
@@ -55,7 +57,7 @@ Une dernière chose, j’ai toujours aimé modérer et me rendre utile. Dès lo
 ![](Aspose.Words.d0a00228-fe70-4d61-888c-be2e0122eebd.001.png)
 
 
-**IV. Pourquoi moi ?**
+:comet: <a href="/README.md">**IV. Pourquoi moi ?**</a>
 
 D’aucuns diront que soit il ne se voit pas supérieur ou à contrario il se voit supérieur. La réalité selon mon idéale et de donner de sa personne, j’ai vu de multiples situations dans une équipe et dans la communauté, je pense avoir vécu beaucoup de choses pour affirmer être capable de vous aider du mieux possible dans la modération et la communication.
 
@@ -68,7 +70,7 @@ Pour finir, ma capacité a être à l’écoute des autres, aider les joueurs et
 ![](Aspose.Words.d0a00228-fe70-4d61-888c-be2e0122eebd.001.png)
 
 
-**V. Conclusion :**
+✨ <a href="/README.md">**V. Conclusion**</a>
 
 Pour clore cette candidature, je te remercie Nicolas de m’offrir la possibilité de postuler en avance en espérant que ma candidature soit au terme de tes attentes et que ce que tu auras apprécié ce qui tu auras lu.
 
@@ -77,5 +79,5 @@ Pour les détails comme pouvoir vocal et la présence, je possède un excellent 
 Je vous souhaite une excellente (fin de) journée, j’espère que cette candidature aura été des plus gracieuses et plaisantes à vos yeux par ailleurs je vous remercie d’avoir été attentif.
 
 
-Cordialement, Enzo (Entys)
+💨 Cordialement, Enzo (Entys) 💨
 
