@@ -78,6 +78,7 @@ Pour les détails comme pouvoir vocal et la présence, je possède un excellent 
 
 Je vous souhaite une excellente (fin de) journée, j’espère que cette candidature aura été des plus gracieuses et plaisantes à vos yeux par ailleurs je vous remercie d’avoir été attentif.
 
+<br>
 
 💨 Cordialement, Enzo (Entys) 💨
 
