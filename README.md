@@ -1,16 +1,16 @@
 <p align="center"><img src="logo-small.png" alt="Entys_D" width="100" height="100"></p>
 <sub>Merci d'avoir pris le temps de lire.</sub>
-
+<br>
 
 **Sommaire :**
 
-:high_brightness: <a href=""><img src="" alt="I. Présentation IRL"></a>
+:high_brightness: <a href="/README.md">I. Présentation IRL</a>
 
-:crescent_moon: II. Présentation IG
+:crescent_moon: <a href="/README.md">II. Présentation IG</a>
 
-:dizzy: III. Motivations
+:dizzy: <a href="/README.md">III. Motivations</a>
 
-:comet: IV. Pourquoi moi ?
+:comet: <a href="/README.md">IV. Pourquoi moi ?</a>
 
 ![](Aspose.Words.d0a00228-fe70-4d61-888c-be2e0122eebd.001.png)
 
